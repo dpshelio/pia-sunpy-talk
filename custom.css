@@ -1,0 +1,15 @@
+<style>
+.left-column {
+    width: 49%;
+    float: left;
+}
+
+.right-column {
+    width: 49%;
+    float: right;
+}
+
+.centre {
+    text-align: center;
+}
+</style>
