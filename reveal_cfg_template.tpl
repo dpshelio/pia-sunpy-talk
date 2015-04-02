@@ -3,13 +3,7 @@
 {%- block header -%}
 {{ super() }}
 
-
-<style type="text/css">
-body {
-  font-size:large;
-}
-</style>
-
+<link href="custom.css" rel="stylesheet" />
 {%- endblock header -%}
 {% block body %}
 {{ super() }}
